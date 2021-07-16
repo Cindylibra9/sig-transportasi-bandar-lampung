@@ -1,6 +1,5 @@
 # Proyek UAP SIG
-# Implementasi WebGIS dengan Framework
-  pada bidang Transportasi di Kota Bandar Lampung
+# Implementasi WebGIS pada bidang Transportasi di Kota Bandar Lampung (dengan Framework)
 
 Nama Anggota:
 - 1917051021 Maghviraturreimadhiney
