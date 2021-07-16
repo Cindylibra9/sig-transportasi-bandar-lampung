@@ -1,5 +1,5 @@
-# SIG TRANSPORTASI KOTA BANDAR LAMPUNG
-# Proyek UAP
+# Proyek UAP SIG
+# Implementasi WebGIS dengan Framework pada bidang Transportasi di Kota Bandar Lampung
 
 Nama Anggota:
 - 1917051021 Maghviraturreimadhiney
@@ -7,4 +7,3 @@ Nama Anggota:
 - 1957051002 Cindy
 - 1917051008 Ummu Qaltsum
 
-Implementasi WebGIS bidang Transportasi di Kota Bandar Lampung
